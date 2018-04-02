@@ -1,0 +1,22 @@
+Need an Eberron font? 
+
+I was in this need too. So, with some copy & paste work, a lot of Photoshop, an a free font editor software, 
+I was able to “clone” the Masoch Dirach font, which is the title font for Ebrron Products, and cost 30 buckets.
+My version is not exactly the same, but pretty similar: the main characters – consonants, vowels,  
+numbers and some signs are exactly the same, but I have to create some characters, so it is not the MD Font.
+
+This is the first version (a final one is under development), but it work with no problems in my Windows XP, 
+and I test it in Win 98 and 2K, and it worked well too. I am sharing it with a lot of people now, and you are 
+the first ones to have it. 
+
+I wish if you can test it, and give some feedback about it, so I will be able to develop a new and better version.
+
+As long you use it only in home games, with no commercial purposes, it will be “legal”. Share it whit your friends and 
+other Eberron DMs and players as you wish.
+
+To install the font file (it is a TTF one), just unzip it, and open the following directory: 
+my computer/local disk (usually the C: drive)/WINDOWS/Fonts, and copy the file there.
+
+I hope you all like, and make a good use of it.
+
+Erik Wroblewski (also know as Gwynn ap Nudd).
