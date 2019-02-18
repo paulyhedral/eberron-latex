@@ -10,11 +10,11 @@
 \newcommand\RowColors{\rowcolors{2}{tablewhite}{tablegrey}}
 
 \newenvironment{EberronTable}[1]{%
-    \par\vspace*{8pt}\noindent\RowColors
-    \begin{tabu} to \linewidth {#1}
+    \par \vspace*{8pt} \noindent \RowColors
+    \begin{longtabu} to \linewidth {#1}
     \HeadRow
   }
-{\end{tabu}}
+{\end{longtabu}}
 
 
 %%%%%
